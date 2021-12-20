@@ -1,3 +1,18 @@
 ## The Japanese Female Facial Expression (JAFFE) Dataset
 
 Download : https://zenodo.org/record/3451524#.Yb_vfWBBzIU
+
+For facial biometric identification purpose You need to change the structure of dataset to the following:
+
+dataset
+|--JAFFE_ID_masked
+    |--KA
+    |--KL
+    |--KM
+    |--KR
+    |--MK
+    |--NA
+    |--NM
+    |--TM
+    |--UY
+    |--YM
